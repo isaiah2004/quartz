@@ -2,5 +2,5 @@
 title: Welcome to Paper Notes
 ---
 
-[[Home]]
+[[HOME]]
 Go to home to get started.
