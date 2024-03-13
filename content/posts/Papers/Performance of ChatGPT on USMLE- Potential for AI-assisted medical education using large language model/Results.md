@@ -28,3 +28,7 @@ Here's a bullet-point summary of the results section from the article on ChatGPT
 
 
 This summary highlights ChatGPT's promising capabilities in approaching the passing thresholds for the USMLE exams, demonstrating high internal consistency in its reasoning, and offering valuable insights that underscore its potential utility in medical education.
+
+Next : [[Discussion]]
+
+[[Key findings]] 

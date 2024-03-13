@@ -1,5 +1,6 @@
-
-## We evaluated the performance of a large language model, ChatGPT, on the United States Medical Licensing Exam (USMLE).
+[[Key findings]] 
+ 
+ This paper evaluated the performance of a large language model, ChatGPT, on the United States Medical Licensing Exam (USMLE).
 - The USMLE comprises three exams:
     - Step 1
     - Step 2CK
@@ -18,3 +19,4 @@
 - ChatGPT's ability to provide comprehensible reasoning and valid clinical insights reinforces trust and explainability.
 - The study indicates that large language models like ChatGPT could support medical education and possibly contribute to future clinical decision-making.
 
+Next : [[posts/Papers/Performance of ChatGPT on USMLE- Potential for AI-assisted medical education using large language model/introduction|introduction]]

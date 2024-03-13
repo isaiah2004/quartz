@@ -20,3 +20,4 @@
 - The distribution of model performance is assumed to be normal.
 - This affords 90% power at α = 0.05 to detect a 2.5% increase in accuracy against a baseline rate of 60 ± 20% (σ).
 
+Next : [[Methods2]]
